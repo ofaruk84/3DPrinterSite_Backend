@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\korkm\\.nuget\\packages\\": {}
+    "C:\\Users\\90538\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\korkm\\Documents\\C# Projects\\3dBackend\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\90538\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\korkm\\Documents\\C# Projects\\3dBackend\\Business\\Business.csproj",
-      "packagesPath": "C:\\Users\\korkm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\korkm\\Documents\\C# Projects\\3dBackend\\Business\\obj\\",
+      "projectPath": "C:\\Users\\90538\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\Business.csproj",
+      "packagesPath": "C:\\Users\\90538\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\90538\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\korkm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\90538\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
