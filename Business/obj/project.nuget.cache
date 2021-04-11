@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "g4WgzrfMzzbmqnqaUCuJ5kP6geIST+94xf7dbfz4YoliNgTaopP6OwaqzoGV+guajI1wx8a8qVIGNh2FdxLu0Q==",
+  "dgSpecHash": "I170ZaAesD82llSA1MUpc7Sw+XPLcPfq4ZaPKymssowAFts7qS4a+2gxcUhKQhQ0qHvr2Sq4wWMK+TJ8xXlQMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\korkm\\Documents\\C# Projects\\3dBackend\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\korkm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\korkm\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\resul\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
