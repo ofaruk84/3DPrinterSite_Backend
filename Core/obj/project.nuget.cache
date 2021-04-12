@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jbuwpDYYwCxkJ4RNdFdyp46deTaWkcgbbOj6KCGXJrVj9ISWpo+w7M0zMVITfeNS24TTaT4OmomtWZXRm7HdQg==",
+  "dgSpecHash": "E2tXQHOuOZG4ERBWb5UcPgrXlSDMp6USpnSVrvbzCw1MQfoVr7puzGV4hVA0ejn3iWavF6PbCFiYHQ1raEZorg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\resul\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\resul\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

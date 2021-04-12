@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\Business.csproj": {}
+    "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\Business.csproj": {
+    "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\obj\\",
+        "outputPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",

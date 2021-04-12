@@ -6271,11 +6271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6292,11 +6292,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj"
+            "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj"
             },
-            "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Entities\\Entities.csproj"
+            "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Entities\\Entities.csproj"
             }
           }
         }

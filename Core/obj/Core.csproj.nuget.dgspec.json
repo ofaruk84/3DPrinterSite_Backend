@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj": {}
+    "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj": {
+    "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\obj\\",
+        "outputPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",
