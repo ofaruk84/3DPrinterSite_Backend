@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "MgqrjhcCRoUV0DYv7EupjE4IUU7w+CvpqifV/6Qc58Tvw+aEkStov+ed/BZ4K8Fo/3IrEKpE58tfYxBxbJ71xQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Entities\\Entities.csproj",
@@ -117,6 +118,14 @@
     "C:\\Users\\resul\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\resul\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\resul\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+=======
+  "dgSpecHash": "aWdX1Bva/xi/YcsbsQC62K73ueBPkVG2yqF9t8be3d180mwbMFJFLF0KhePDc88nN4Bzd3wD9sVtR6kosd0v9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\resul\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+>>>>>>> main
   ],
   "logs": []
 }

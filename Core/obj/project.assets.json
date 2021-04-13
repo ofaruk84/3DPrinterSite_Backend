@@ -6233,11 +6233,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj",
       "projectName": "Core",
       "projectPath": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\resul\\Source\\Repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj",
+      "projectName": "Core",
+      "projectPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\obj\\",
+>>>>>>> main
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",

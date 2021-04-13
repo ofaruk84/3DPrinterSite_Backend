@@ -4,6 +4,7 @@
     "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
+<<<<<<< HEAD
     "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +13,16 @@
         "projectPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\obj\\",
+=======
+    "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\obj\\",
+>>>>>>> main
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",
