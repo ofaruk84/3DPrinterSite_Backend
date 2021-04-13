@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Lq2+/vB68Oukie4YIx8EZ9SgMJiW105K58WV/D/Pracl+qmxDaIaDZyRZ+jRp+wyKzOEq7rv9w/KLb8sYMrYPA==",
+  "dgSpecHash": "xnkk4cJKlgI3yipUkIpBVR5YKm3QXpEJ314HYxxwgkno3QFCpiSyProBaNgkMSXd9C9ACgt8nYRQNIExrk7cIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\korkm\\Documents\\C# Projects\\3dBackend\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\korkm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\korkm\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\resul\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
