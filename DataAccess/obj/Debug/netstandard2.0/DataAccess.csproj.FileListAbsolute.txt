@@ -1,0 +1,6 @@
+C:\Users\resul\Source\Repos\ofaruk84\3DPrinterSite_Backend\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\resul\Source\Repos\ofaruk84\3DPrinterSite_Backend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\resul\Source\Repos\ofaruk84\3DPrinterSite_Backend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\resul\Source\Repos\ofaruk84\3DPrinterSite_Backend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\resul\Source\Repos\ofaruk84\3DPrinterSite_Backend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\resul\Source\Repos\ofaruk84\3DPrinterSite_Backend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
