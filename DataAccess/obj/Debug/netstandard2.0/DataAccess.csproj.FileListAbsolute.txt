@@ -4,3 +4,11 @@ C:\Users\resul\Source\Repos\ofaruk84\3DPrinterSite_Backend\DataAccess\bin\Debug\
 C:\Users\resul\Source\Repos\ofaruk84\3DPrinterSite_Backend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
 C:\Users\resul\Source\Repos\ofaruk84\3DPrinterSite_Backend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
 C:\Users\resul\Source\Repos\ofaruk84\3DPrinterSite_Backend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
