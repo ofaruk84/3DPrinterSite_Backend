@@ -13,6 +13,8 @@ namespace Core.Business
         IResult Update(T entity);
         IResult Delete(T entity);
 
+
+
    
 
     }

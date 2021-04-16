@@ -2,36 +2,14 @@
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
+using Core.DataAccess.EntityFramework;
 using DataAccess.Abstract;
 using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfSellerDal : ISellerDal
+    public class EfSellerDal : EfEntityRepositoryBase<Seller, _3dPrintContext>, ISellerDal
     {
-        public void Add(Seller entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Delete(Seller entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Seller Get(Expression<Func<Seller, bool>> filter = null)
-        {
-            throw new NotImplementedException();
-        }
-
-        public List<Seller> GetAll(Expression<Func<Seller, bool>> filter = null)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Update(Seller entity)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }
