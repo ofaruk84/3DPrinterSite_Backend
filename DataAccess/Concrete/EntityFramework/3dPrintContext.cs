@@ -11,7 +11,7 @@ namespace DataAccess.Concrete.EntityFramework
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=3dPrintdb;Trusted_Connection=true");
-            
+
         }
 
         public DbSet<User> Users { get; set; }

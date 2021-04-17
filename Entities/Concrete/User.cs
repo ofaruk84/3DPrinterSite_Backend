@@ -13,6 +13,6 @@ namespace Entities.Concrete
         public string Password { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
-        public int Phone { get; set; }
+        public string Phone { get; set; }
     }
 }
