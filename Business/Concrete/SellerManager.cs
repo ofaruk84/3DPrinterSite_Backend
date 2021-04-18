@@ -14,7 +14,7 @@ namespace Business.Concrete
     {
 
         ISellerDal _sellerDal;
-
+        
         public SellerManager(ISellerDal sellerDal)
         {
             _sellerDal = sellerDal;
