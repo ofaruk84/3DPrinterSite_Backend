@@ -30,11 +30,11 @@ namespace WebAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddSingleton<IUserService,UserManager>();
-            services.AddSingleton<IUserDal, EfUserDal>();
+            //services.AddSingleton<IUserService,UserManager>();
+            //services.AddSingleton<IUserDal, EfUserDal>();
 
-            services.AddSingleton<ISellerService, SellerManager>();
-            services.AddSingleton<ISellerDal, EfSellerDal>();
+            //services.AddSingleton<ISellerService, SellerManager>();
+            //services.AddSingleton<ISellerDal, EfSellerDal>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
