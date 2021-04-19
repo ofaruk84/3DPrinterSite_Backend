@@ -1,6 +1,4 @@
 ﻿using Business.Abstract;
-using Business.Concrete;
-using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -13,20 +11,32 @@ namespace WebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UsersController : ControllerBase
+    public class SellersController : ControllerBase
     {
-        IUserService _userService;
+        ISellerService _sellerService;
 
-        public UsersController(IUserService userService)
+        public SellersController(ISellerService sellerService)
         {
-            _userService = userService;
+            _sellerService = sellerService;
         }
 
         [HttpGet("getall")]
         public IActionResult GetAll()
         {
 
-            var result = _userService.GetAll();
+            var result = _sellerService.GetAll();
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+
+        [HttpGet("getsellerdetails")]
+        public IActionResult GetSellerDetails()
+        {
+
+            var result = _sellerService.GetSellerDetails();
             if (result.Success)
             {
                 return Ok(result);
@@ -35,9 +45,9 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost("add")]
-        public IActionResult Add(User user)
+        public IActionResult Add(Seller seller)
         {
-            var result = _userService.Add(user);
+            var result = _sellerService.Add(seller);
             if (result.Success)
             {
                 return Ok(result);
@@ -46,9 +56,9 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost("delete")]
-        public IActionResult Delete(User user)
+        public IActionResult Delete(Seller seller)
         {
-            var result = _userService.Delete(user);
+            var result = _sellerService.Delete(seller);
             if (result.Success)
             {
                 return Ok(result);
@@ -57,20 +67,9 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost("update")]
-        public IActionResult Update(User user)
+        public IActionResult Update(Seller seller)
         {
-            var result = _userService.Update(user);
-            if (result.Success)
-            {
-                return Ok(result);
-            }
-            return BadRequest(result);
-        }
-
-        [HttpGet("getbyemail")]
-        public IActionResult GetByEmail(string Email)
-        {
-            var result = _userService.GetByEmail(Email);
+            var result = _sellerService.Update(seller);
             if (result.Success)
             {
                 return Ok(result);
