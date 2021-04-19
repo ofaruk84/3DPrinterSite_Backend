@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MzwYNxmL8GrMCVNEPmzkDdOIHyYUbjDEfbARhstvW4inEkixrQAvLh1ZPI3obTsdBYoEZ047XLY7nBccvheptA==",
+  "dgSpecHash": "wG0fVKKZisdVirxRyFgJ6wQtWmxkTGwb2TKSeYFzBx2X1NvfHcd1LQuDi9oE9AHhtLqpbuEZSsz8+r0X0sEngQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\90538\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90538\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\90538\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\90538\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\90538\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\90538\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
