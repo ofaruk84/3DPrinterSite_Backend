@@ -3,6 +3,7 @@ using Business.BusinessAspects.Autofac;
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
 using Core.Aspects.Autofac.Caching;
+using Core.Aspects.Autofac.Transaction;
 using Core.Aspects.Autofac.Validation;
 using Core.CrossCuttingConcerns.Validations;
 using Core.Entities.Concrete;
@@ -25,6 +26,7 @@ namespace Business.Concrete
             _userDal = userDal;
         }
 
+        //[TransactionScopeAspect]
         //[CacheRemoveAspect("IUserService.Get")]
         //[SecuredOperation("user.add,admin")]
         [ValidationAspect(typeof(UserValidator))]
