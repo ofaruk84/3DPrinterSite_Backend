@@ -42,7 +42,7 @@ namespace Business.Concrete
 
         public IDataResult<OrderPosition> GetByID(int positionid)
         {
-            return new SuccessDataResult<OrderPosition>(_orderPositionDal.Get(p => p.OderPositionId == positionid));
+            return new SuccessDataResult<OrderPosition>(_orderPositionDal.Get(p => p.OrderPositionId == positionid));
         }
     }
 }

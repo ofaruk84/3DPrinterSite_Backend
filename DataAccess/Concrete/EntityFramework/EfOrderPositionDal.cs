@@ -8,7 +8,7 @@ using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfrderPositionDal : EfEntityRepositoryBase<OrderPosition, _3dPrintContext>, IOrderPositionDal
+    public class EfOrderPositionDal : EfEntityRepositoryBase<OrderPosition, _3dPrintContext>, IOrderPositionDal
     {
     }
 }
