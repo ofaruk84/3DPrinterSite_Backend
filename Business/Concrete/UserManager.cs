@@ -2,6 +2,7 @@
 using Business.BusinessAspects.Autofac;
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Caching;
 using Core.Aspects.Autofac.Validation;
 using Core.CrossCuttingConcerns.Validations;
 using Core.Entities.Concrete;
@@ -24,6 +25,7 @@ namespace Business.Concrete
             _userDal = userDal;
         }
 
+        //[CacheRemoveAspect("IUserService.Get")]
         //[SecuredOperation("user.add,admin")]
         [ValidationAspect(typeof(UserValidator))]
         public IResult Add(User user)
@@ -40,6 +42,7 @@ namespace Business.Concrete
             return new SuccessResult(Messages.UserDeleted);
         }
 
+        //[CacheAspect]
         public IDataResult<List<User>> GetAll()
         {
             return new SuccessDataResult<List<User>>(_userDal.GetAll(), Messages.UsersListed); 
@@ -50,6 +53,7 @@ namespace Business.Concrete
             return new SuccessDataResult<User>(_userDal.Get(u => u.Email == Email));
         }
 
+        
         public IResult Update(User user)
         {
             _userDal.Update(user);
