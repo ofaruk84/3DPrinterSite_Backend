@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Entities.pdb
 C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Core.dll
 C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Core.pdb
 C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
@@ -8,20 +10,3 @@ C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\obj\Debug\ne
 C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
 C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\obj\Debug\netstandard2.0\Entities.pdb
-C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
-C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Entities.dll
-C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Entities.pdb
-=======
-C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
-C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Entities.dll
-C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Entities.pdb
-C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Core.dll
-C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\bin\Debug\netstandard2.0\Core.pdb
-C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
-C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
-C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
-C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
-C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
-C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\obj\Debug\netstandard2.0\Entities.dll
-C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\Entities\obj\Debug\netstandard2.0\Entities.pdb
->>>>>>> 7d9f7ea068a475b3012ae3992a2b42333b93d63f
