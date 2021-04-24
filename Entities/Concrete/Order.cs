@@ -7,7 +7,9 @@ namespace Entities.Concrete
 {
     public class Order:IEntity
     {
-
+        /// <summary>
+        /// //
+        /// </summary>
         public int OrderId { get; set; }
         public int  UserId { get; set; }
         public int SellerId{ get; set; }
