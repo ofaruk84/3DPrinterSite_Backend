@@ -5,9 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-<<<<<<< HEAD
-=======
-    <PackageReference Include="Autofac" Version="6.1.0" />
+	  <PackageReference Include="Autofac" Version="6.1.0" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
     <PackageReference Include="Autofac.Extras.DynamicProxy" Version="6.0.0" />
     <PackageReference Include="FluentValidation" Version="9.5.1" />
@@ -16,7 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
->>>>>>> 7d9f7ea068a475b3012ae3992a2b42333b93d63f
     <ProjectReference Include="..\Core\Core.csproj" />
     <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
     <ProjectReference Include="..\Entities\Entities.csproj" />

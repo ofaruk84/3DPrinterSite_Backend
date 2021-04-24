@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-=======
+
 using Business.Abstract;
 using Business.Concrete;
 using Core.DependencyResolver;
@@ -15,28 +14,27 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
->>>>>>> 7d9f7ea068a475b3012ae3992a2b42333b93d63f
+
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-<<<<<<< HEAD
-=======
+
+
 using Microsoft.IdentityModel.Tokens;
->>>>>>> 7d9f7ea068a475b3012ae3992a2b42333b93d63f
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-<<<<<<< HEAD
+
 using Business.Abstract;
 using Business.Concrete;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
-=======
->>>>>>> 7d9f7ea068a475b3012ae3992a2b42333b93d63f
+
 
 namespace WebAPI
 {
@@ -53,12 +51,12 @@ namespace WebAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-<<<<<<< HEAD
+
             services.AddSingleton<IOrderService, OrderManager>();
             services.AddSingleton<IOrderDal, EfOrderDal>();
             services.AddSingleton<IOrderPositionService, OrderPositionManager>();
             services.AddSingleton<IOrderPositionDal, EfOrderPositionDal>();
-=======
+
             //services.AddSingleton<IUserService,UserManager>();
             //services.AddSingleton<IUserDal, EfUserDal>();
 
@@ -87,7 +85,7 @@ namespace WebAPI
             services.AddDependencyResolvers(new ICoreModule[] {
                new CoreModule() 
             });
->>>>>>> 7d9f7ea068a475b3012ae3992a2b42333b93d63f
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -102,11 +100,8 @@ namespace WebAPI
 
             app.UseRouting();
 
-<<<<<<< HEAD
-=======
             app.UseAuthentication();
 
->>>>>>> 7d9f7ea068a475b3012ae3992a2b42333b93d63f
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

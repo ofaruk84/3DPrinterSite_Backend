@@ -144,3 +144,8 @@ C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\WebAPI\bin\Debug\netc
 C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\90538\source\repos\ofaruk84\3DPrinterSite_Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 >>>>>>> 7d9f7ea068a475b3012ae3992a2b42333b93d63f
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\resul\source\repos\ofaruk84\3DPrinterSite_Backend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

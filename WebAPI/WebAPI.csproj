@@ -5,12 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-<<<<<<< HEAD
     <ProjectReference Include="..\Business\Business.csproj" />
     <ProjectReference Include="..\Core\Core.csproj" />
     <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
     <ProjectReference Include="..\Entities\Entities.csproj" />
-=======
+
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.14" />
   </ItemGroup>
@@ -19,7 +18,6 @@
     <ProjectReference Include="..\Business\Business.csproj" />
     <ProjectReference Include="..\Core\Core.csproj" />
     <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
->>>>>>> 7d9f7ea068a475b3012ae3992a2b42333b93d63f
   </ItemGroup>
 
 
