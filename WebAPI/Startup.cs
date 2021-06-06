@@ -52,16 +52,6 @@ namespace WebAPI
         {
             services.AddControllers();
 
-            services.AddSingleton<IOrderService, OrderManager>();
-            services.AddSingleton<IOrderDal, EfOrderDal>();
-            services.AddSingleton<IOrderPositionService, OrderPositionManager>();
-            services.AddSingleton<IOrderPositionDal, EfOrderPositionDal>();
-
-            //services.AddSingleton<IUserService,UserManager>();
-            //services.AddSingleton<IUserDal, EfUserDal>();
-
-            //services.AddSingleton<ISellerService, SellerManager>();
-            //services.AddSingleton<ISellerDal, EfSellerDal>();
 
             
 

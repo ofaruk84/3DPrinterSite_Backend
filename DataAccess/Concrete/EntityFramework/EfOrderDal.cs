@@ -26,7 +26,7 @@ namespace DataAccess.Concrete.EntityFramework
                     select new OrderDetailDto
                     {
                         ProductId = p.ProductId,
-                        ProductName = p.ProductName,
+                        ProductName = p.Name,
                         OrderId = o.OrderId,
                         OrderPrice = o.Price,
                         OrderPositionPrice = opo.Price,

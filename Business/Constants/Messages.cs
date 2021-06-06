@@ -26,5 +26,14 @@ namespace Business.Constants
         public static string SuccessfulLogin = "Başarılı giriş.";
         public static string UserAlreadyExists = "Kullanıcı mevcut.";
         public static string AccessTokenCreated = "Token oluşturuldu.";
+
+        public static string ImageLimitExceeded = "Bir ürünün beşten fazla fotoğrafı olamaz.";
+
+        public static string ImageAdded = "Fotoğraf eklendi.";
+
+        public static string ImageNotFound = "Fotoğraf bulunamadı.";
+        public static string ImageDeleted = "Fotoğraf silindi.";
+
+        public static string ImageUpdated = "Fotoğraf güncellendi.";
     }
 }

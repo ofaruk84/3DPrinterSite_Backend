@@ -6810,19 +6810,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\resul\\.nuget\\packages\\": {}
+    "C:\\Users\\90538\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\90538\\source\\repos\\3DPrinterSite\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\90538\\source\\repos\\3DPrinterSite\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\90538\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\90538\\source\\repos\\3DPrinterSite\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\90538\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6836,11 +6836,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Core\\Core.csproj"
+            "C:\\Users\\90538\\source\\repos\\3DPrinterSite\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\90538\\source\\repos\\3DPrinterSite\\Core\\Core.csproj"
             },
-            "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\resul\\source\\repos\\ofaruk84\\3DPrinterSite_Backend\\Entities\\Entities.csproj"
+            "C:\\Users\\90538\\source\\repos\\3DPrinterSite\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\90538\\source\\repos\\3DPrinterSite\\Entities\\Entities.csproj"
             }
           }
         }
@@ -6876,7 +6876,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
