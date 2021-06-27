@@ -5,6 +5,7 @@ using Business.Abstract;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 
 namespace Business.Concrete
 {
@@ -47,6 +48,11 @@ namespace Business.Concrete
         {
             _productDal.Update(product);
             return new SuccessResult();
+        }
+
+        public IDataResult<List<ProductDetailDto>> GetProductDetails()
+        {
+            return new SuccessDataResult<List<ProductDetailDto>>(_productDal.GetProductDetails());
         }
     }
 }
