@@ -12,11 +12,11 @@ namespace DataAccess.Concrete.EntityFramework
 {
     public class EfProductDal : EfEntityRepositoryBase<Product, _3dPrintContext>, IProductDal
     {
-        public List<ProductDetailDto> GetProductDetails()
+        public List<ProductDetailDto> GetProductDetails(Expression<Func<Product, bool>> filter = null)
         {
             using (_3dPrintContext context = new _3dPrintContext())
             {
-                var result = from p in context.Products
+                var result = from p in filter == null ? context.Products : context.Products.Where(filter)
                              join c in context.Categories
                              on  p.CategoryId equals c.CategoryID
                              join s in context.Sellers
@@ -30,9 +30,12 @@ namespace DataAccess.Concrete.EntityFramework
                                  Description = p.Description,
                                  Name = p.Name,
                                  CategoryName = c.CategoryName,
-                                 CompanyName = s.CompanyName
+                                 CompanyName = s.CompanyName,
 
-                             };
+                                 Images =
+                              (from i in context.ProductImages where i.ProductId == p.ProductId select i.ImagePath).ToList()
+                            
+            };
                 return result.ToList();
             }
         }

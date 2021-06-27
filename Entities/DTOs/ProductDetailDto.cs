@@ -15,7 +15,7 @@ namespace Entities.DTOs
         public string CategoryName { get; set; }
         public string CompanyName { get; set; }
 
-
+        public List<string> Images { get; set; }
 
     }
 }
