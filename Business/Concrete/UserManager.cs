@@ -27,9 +27,8 @@ namespace Business.Concrete
             _userDal = userDal;
         }
         [PerformanceAspect(10)]
-        //[TransactionScopeAspect]
-        //[CacheRemoveAspect("IUserService.Get")]
-        //[SecuredOperation("user.add,admin")]
+        [TransactionScopeAspect]
+        [CacheRemoveAspect("IUserService.Get")]
         [ValidationAspect(typeof(UserValidator))]
         public IResult Add(User user)
         {
@@ -63,6 +62,7 @@ namespace Business.Concrete
             return new SuccessResult(Messages.UserUpdated);
         }
 
+        [SecuredOperation("admin")]
         public IDataResult<List<OperationClaim>> GetClaims(User user)
         {
             return new SuccessDataResult<List<OperationClaim>>(_userDal.GetClaims(user));
